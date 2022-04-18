@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="effective-jvm-1.0-SNAPSHOT">
-    <output-path>D:\idea_projecct\effective\build\libs</output-path>
-    <root id="archive" name="effective-jvm-1.0-SNAPSHOT.jar">
-      <element id="module-output" name="effective.jvmMain" />
-    </root>
-  </artifact>
-</component>
